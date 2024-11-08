@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mind-map-creator/static/css/main.616ba065.css",
+    "main.js": "/react-mind-map-creator/static/js/main.1fc832bd.js",
+    "static/js/453.33c1dc44.chunk.js": "/react-mind-map-creator/static/js/453.33c1dc44.chunk.js",
+    "index.html": "/react-mind-map-creator/index.html",
+    "main.616ba065.css.map": "/react-mind-map-creator/static/css/main.616ba065.css.map",
+    "main.1fc832bd.js.map": "/react-mind-map-creator/static/js/main.1fc832bd.js.map",
+    "453.33c1dc44.chunk.js.map": "/react-mind-map-creator/static/js/453.33c1dc44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616ba065.css",
+    "static/js/main.1fc832bd.js"
+  ]
+}
